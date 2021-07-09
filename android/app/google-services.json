@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404172046512",
+    "firebase_url": "https://javascript-assignment-1fce4.firebaseio.com",
+    "project_id": "javascript-assignment-1fce4",
+    "storage_bucket": "javascript-assignment-1fce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404172046512:android:06e1c12c77347b2d2e3b75",
+        "android_client_info": {
+          "package_name": "com.kamarah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404172046512-20j3u8inl3irbedrup1imge76uk1phbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZKOQ9_mPsmxxz7CzcGjuPluTR1bfMMkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404172046512-20j3u8inl3irbedrup1imge76uk1phbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
