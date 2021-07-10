@@ -61,7 +61,7 @@ export default class UserScreen extends Component {
   // Fetch location details as a JOSN from google map API
   fetchAddress = () => {
     
-    // fetch("https://maps.googleapis.com/maps/api/geocode/json?address=" + this.state.region.latitude + "," + this.state.region.longitude + "&key=" + "AIzaSyB-xE3oNg_x2K-Samgjh5YngqqD5uGIKbk")
+    // fetch("https://maps.googleapis.com/maps/api/geocode/json?address=" + this.state.region.latitude + "," + this.state.region.longitude + "&key=" + "Google Api Key")
     //   .then((response) => response.json())
     //   .then((responseJson) => {
     //     const userLocation = responseJson.results[0].formatted_address;
